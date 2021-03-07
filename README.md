@@ -5,7 +5,7 @@ DataSet - http://bit.ly/3eiqieH
 
 Watch the Full Vidoe and Like Share and Subscribe our YouTube Channel.
 
-YouTube Channel - https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1
+YouTube Channel - http://bit.ly/38gLfTo
 
 Connect with us:
 
