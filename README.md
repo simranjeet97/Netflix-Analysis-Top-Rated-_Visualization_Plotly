@@ -10,7 +10,7 @@
  <!-- PROJECT LOGO -->
  <br />
  <p align="center">
-   <a href="https://github.com/othneildrew/Best-README-Template">
+   <a href="https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly">
      <img src="dp.png" alt="Logo" width="80" height="80">
    </a>
 
@@ -19,14 +19,14 @@
    <p align="center">
      This Project Includes the Complete End to End Data Analysis - Data Visualization - Recommendation System Whichever Move or Show your Want.
      <br />
-     <a href="https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard"><strong>Explore the docs »</strong></a>
+     <a href="https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly"><strong>Explore the docs »</strong></a>
      <br />
      <br />
-     <a href="https://srilankacarprice.herokuapp.com/">View Demo</a>
+     <a href="https://watchnetflix.herokuapp.com/">View Demo</a>
      ·
-     <a href="https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/issues">Report Bug</a>
+     <a href="https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/issues">Report Bug</a>
      ·
-     <a href="https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/issues">Request Feature</a>
+     <a href="https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/issues">Request Feature</a>
    </p>
  </p>
 
@@ -61,23 +61,23 @@
 
  Shows How Data is Distributed in Netflix Dataset - Movies and TV Shows
 
- [![Product1][product-screenshot1]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ [![Product1][product-screenshot1]](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 
  Filter Out Movies or TV Shows based on Continent on which you Live and Age Group from You Belong.
 
- [![Product2][product-screenshot2]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ [![Product2][product-screenshot2]](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 
  Filter Out Movies and TV Shows according to the Genre and Gender Group
 
- [![Product3][product-screenshot3]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ [![Product3][product-screenshot3]](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 
  Recommendation Engine to Recommend you Movies and TV Shows Building using Simple tfidfvectorizer and Similiariy Checking Between Description of Movies and Shows.
 
- [![Product4][product-screenshot4]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ [![Product4][product-screenshot4]](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 
  Working of Recommendation System.
 
- [![Product5][product-screenshot5]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ [![Product5][product-screenshot5]](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 
  ### Built With
 
@@ -132,15 +132,15 @@
  <!-- MARKDOWN LINKS & IMAGES -->
  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
  [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
- [contributors-url]: https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/graphs/contributors
+ [contributors-url]: hhttps://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/graphs/contributors
  [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
- [forks-url]: https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/network/members
+ [forks-url]: hhttps://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/network/members
  [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
- [stars-url]: https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/stargazers
+ [stars-url]: https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/stargazers
  [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
- [issues-url]: https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/issues
+ [issues-url]: https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/issues
  [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
- [license-url]: https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/LICENSE
+ [license-url]: https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly/blob/main/LICENSE
  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
  [linkedin-url]: https://www.linkedin.com/in/simranjeet97
  [product-screenshot1]: images/one.png
